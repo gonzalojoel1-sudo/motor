@@ -1,0 +1,590 @@
+{
+  "generado": "2026-10-22T07:19:49",
+  "descripcion": "sha256 de los ficheros publicados. Datos y pesos no incluidos.",
+  "totales": {
+    "ficheros": 116,
+    "bytes": 8452449
+  },
+  "ficheros": [
+    {
+      "ruta": ".gitattributes",
+      "bytes": 454,
+      "sha256": "d4c8dbdeb9e35bceec58bb8f374fa64194bd47bc42e26a14a799155c4ef36bcb"
+    },
+    {
+      "ruta": ".github/workflows/tests.yml",
+      "bytes": 1885,
+      "sha256": "b9e81667153897c58960f1c034362ca710bd015864306df5542caf5ddc25e9a5"
+    },
+    {
+      "ruta": ".gitignore",
+      "bytes": 805,
+      "sha256": "0b35160a9957ef2c88a9f5c54fd757f6aa916033a583a5b8f3b8b3d1027ad3a2"
+    },
+    {
+      "ruta": "COMPARATIVA.md",
+      "bytes": 11836,
+      "sha256": "25e6a5b76c2afe770131bf39544f0d7f017f28192dc89f344aaf42340a78f8b2"
+    },
+    {
+      "ruta": "DOCUMENTACION/CHANGELOG.md",
+      "bytes": 74274,
+      "sha256": "50987056d6165de84b39bafaab0dfd92684f5bccd596cf1829663bc694d13183"
+    },
+    {
+      "ruta": "DOCUMENTACION/corpus/README.md",
+      "bytes": 59252,
+      "sha256": "e8058c3434f32c31e98a2eae97856538a2f1a0d1cb15087bdd51e5bf40b03eb2"
+    },
+    {
+      "ruta": "DOCUMENTACION/DOCUMENTACION_PI400_v4.md",
+      "bytes": 363110,
+      "sha256": "1bce7ec3bdc1928c300295d06a7d62cc92756994b12d269202d1b831ce287b3c"
+    },
+    {
+      "ruta": "DOCUMENTACION/gpu/README.md",
+      "bytes": 37195,
+      "sha256": "161f4cdc619e8f4d60fe76c3253aefa0cab919a16e146198b180c8b6ec063ad9"
+    },
+    {
+      "ruta": "DOCUMENTACION/HANDOFF.md",
+      "bytes": 12800,
+      "sha256": "49d490be0b32eb10f3b05b31f52cb23f3f6c625306f22e53cae7d164b4cca6bc"
+    },
+    {
+      "ruta": "DOCUMENTACION/modelos/README.md",
+      "bytes": 7872,
+      "sha256": "b6284a064ce2d9f14ae436fa60263e2343bda9a1c218a6403f498e071cfc55b4"
+    },
+    {
+      "ruta": "DOCUMENTACION/PI400.md",
+      "bytes": 25084,
+      "sha256": "35844794c16561595c20d10f1c02d8d428da6fef8e841e2c9f1d8e3607c37c83"
+    },
+    {
+      "ruta": "DOCUMENTACION/README.md",
+      "bytes": 106034,
+      "sha256": "4aa642cdd4521227d4d02ec1a21e8b4b0805b598da2de4a47caf4efc94c49a44"
+    },
+    {
+      "ruta": "INFORME_SUPER_MOTOR.md",
+      "bytes": 13434,
+      "sha256": "0f5fd353f1a03d983e0b80e4ff2db72bbe928e5480c6d831d855743593df9a57"
+    },
+    {
+      "ruta": "LEEME.md",
+      "bytes": 20631,
+      "sha256": "7d230d7496118bab92061bb1de74aa2c1c3b0c42dd7618d802cb36a1bb1c1385"
+    },
+    {
+      "ruta": "LICENSE",
+      "bytes": 1056,
+      "sha256": "1126322e2cc8d165adc4c792eeb195717de2bcc7b39be1ce77959d78e87ef685"
+    },
+    {
+      "ruta": "MLA_MOE_300M_700M.md",
+      "bytes": 29756,
+      "sha256": "6d05203fc3598ab82419e72865865d10593ea7592782403a4e4046e4fa8500e0"
+    },
+    {
+      "ruta": "nuestro_motor/.gitignore",
+      "bytes": 613,
+      "sha256": "1936236d2f0e4caef5ebc7afce8f3ebde97e2e32bb87e687129c28e1dbc588f6"
+    },
+    {
+      "ruta": "nuestro_motor/.gitignore.pa",
+      "bytes": 1136,
+      "sha256": "9731294d27e9b7545d0aa49a0136fd3bcd934c8f58d8c477baa36b885becc7c1"
+    },
+    {
+      "ruta": "nuestro_motor/bench_pi.sh",
+      "bytes": 10683,
+      "sha256": "e5819cc007b90c17fbe4fbe0232008fa5d3809ba0fa94c72bb6c881b9a0d232e"
+    },
+    {
+      "ruta": "nuestro_motor/CHANGELOG.md",
+      "bytes": 74274,
+      "sha256": "50987056d6165de84b39bafaab0dfd92684f5bccd596cf1829663bc694d13183"
+    },
+    {
+      "ruta": "nuestro_motor/corpus/curva_referencia_final.json",
+      "bytes": 6033,
+      "sha256": "e8105cad04061fd176650767386741570f825c91f0efaeda8600182f3555da60"
+    },
+    {
+      "ruta": "nuestro_motor/corpus/curva_referencia_gpt2.json",
+      "bytes": 9549,
+      "sha256": "3b17ae0cb793b6c8dd93433fa7e100fb162e1f683e0c26e7ede5340279a671f3"
+    },
+    {
+      "ruta": "nuestro_motor/corpus/descargas.json",
+      "bytes": 3662,
+      "sha256": "18df64b35801519ea689eb07080bb8cb8509a87a664f900e7c4a920eb0989fd7"
+    },
+    {
+      "ruta": "nuestro_motor/corpus/descargas_es.json",
+      "bytes": 1555,
+      "sha256": "4b015d2d2f431f647738f31c8fc3f37b10816a9bf5515a0cc148c3d7721b5b43"
+    },
+    {
+      "ruta": "nuestro_motor/corpus/FUENTES_ES.md",
+      "bytes": 28617,
+      "sha256": "bd943ae0cf387fa031d5847f82ac6a41fba1f6f8d7a90fcf4d3000976d456a4b"
+    },
+    {
+      "ruta": "nuestro_motor/corpus/holdout.bin",
+      "bytes": 42746,
+      "sha256": "9aea5f0344ffb9b6f0f08e8e11ced177419dc7b1874ba65fd360172288137a76"
+    },
+    {
+      "ruta": "nuestro_motor/corpus/holdout_es.bin",
+      "bytes": 516164,
+      "sha256": "d30351d78be829b972ce6b09a0a6ee141837ed278677dc11cd7ea104b4fc4ee6"
+    },
+    {
+      "ruta": "nuestro_motor/corpus/holdout_v2.bin",
+      "bytes": 177224,
+      "sha256": "dea3d7e1b1bdce2986bcb3816534d195fe7037c63f44d308ccb84880ce2c2edf"
+    },
+    {
+      "ruta": "nuestro_motor/corpus/LEEME_DATOS.md",
+      "bytes": 2630,
+      "sha256": "92ce2854bf0603b2c13c1a7c486a96dfcb6d664203851c262c0ace81074bdfad"
+    },
+    {
+      "ruta": "nuestro_motor/corpus/manifiesto.json",
+      "bytes": 31850,
+      "sha256": "af6bc59bdaf488dc9412793d8507144247003767f926a6658f6b05c6990b1717"
+    },
+    {
+      "ruta": "nuestro_motor/corpus/perplejidad_comparada.json",
+      "bytes": 857,
+      "sha256": "1be3c788972d966eed67a3cf14ee646bcfd2ce1e3c87a8548fbb4b2a811b5fab"
+    },
+    {
+      "ruta": "nuestro_motor/corpus/README.md",
+      "bytes": 59252,
+      "sha256": "e8058c3434f32c31e98a2eae97856538a2f1a0d1cb15087bdd51e5bf40b03eb2"
+    },
+    {
+      "ruta": "nuestro_motor/corpus/referencia.rng.json",
+      "bytes": 175,
+      "sha256": "4e6d3a93b4e8f3b36fa6ad4a09fc8aec5920951e5be49032b9a103d05ee6ad3e"
+    },
+    {
+      "ruta": "nuestro_motor/corpus/release_gpt2.json",
+      "bytes": 1143,
+      "sha256": "1e5c1f71689580027a1f4f287455249ed34bef1869928949365d26f5e5f4a9c9"
+    },
+    {
+      "ruta": "nuestro_motor/corpus/tokenizador.json",
+      "bytes": 194549,
+      "sha256": "3f75bc233a7479ff5593decc9d6c98b6fcb01f7de783163ed540907f6fa49106"
+    },
+    {
+      "ruta": "nuestro_motor/corpus/tokenizador_v2.json",
+      "bytes": 205887,
+      "sha256": "5590fae9d7e908471ee89324a1d34d7cad88e67bbc3fe60dda11d0049328fd6b"
+    },
+    {
+      "ruta": "nuestro_motor/embedding_engine.py",
+      "bytes": 53882,
+      "sha256": "a0f104abca0faa4e7950e3bd1cbc721d3968ad8d12a51b075d038e8e6624a823"
+    },
+    {
+      "ruta": "nuestro_motor/engine_pi400_accel.c",
+      "bytes": 14034,
+      "sha256": "465cf9373ce2bde4f61aa020be26e126aff4c6038922f671d77c9a225b30a322"
+    },
+    {
+      "ruta": "nuestro_motor/examples/agent_tools.py",
+      "bytes": 4931,
+      "sha256": "4efa8ea649c3aba5002bfad7268ebafb573063f9fe801513cf20b6c8e2f91ad8"
+    },
+    {
+      "ruta": "nuestro_motor/examples/chat_openai.py",
+      "bytes": 5351,
+      "sha256": "18f40e54f395179f85cd4d61ebaca28eb3fe4e00693ed70595d84425443dcd4c"
+    },
+    {
+      "ruta": "nuestro_motor/examples/gguf_export.py",
+      "bytes": 5355,
+      "sha256": "51bd8c1d79cac9f3a1f210bd01eda2695af68da78fe697358a3df1cbe40d929d"
+    },
+    {
+      "ruta": "nuestro_motor/gpu/__init__.py",
+      "bytes": 699,
+      "sha256": "2ebea56f98e06bd9753f3d60c84a7a99281c794bf0a229fa1a7a87064e2ff1e7"
+    },
+    {
+      "ruta": "nuestro_motor/gpu/COLAB.md",
+      "bytes": 7467,
+      "sha256": "6a13ff2b781ff048e9070a437ab8d924a748dcf8ff36d336e6fcf485afb12ccf"
+    },
+    {
+      "ruta": "nuestro_motor/gpu/colab_entrenar.py",
+      "bytes": 10428,
+      "sha256": "66468d69ad5ac04b2d0d11cb8f5039d4ef4d97b52901c275b71f918503a45446"
+    },
+    {
+      "ruta": "nuestro_motor/gpu/construir_release.py",
+      "bytes": 16818,
+      "sha256": "9742e954207411d46b47200e7b4c076e0a0d669d660612dee2470507bb25fef3"
+    },
+    {
+      "ruta": "nuestro_motor/gpu/ENTRENAR_EN_COLAB.ipynb",
+      "bytes": 7006,
+      "sha256": "75f79e8178764ce35e5328975486d855f281b909ba44368c9a4d558c9fc12556"
+    },
+    {
+      "ruta": "nuestro_motor/gpu/entrenar_gpu.py",
+      "bytes": 85373,
+      "sha256": "d51d666ae5941d52a1e8e8c999821862f44736bfb5ce151be40631742ff7e18d"
+    },
+    {
+      "ruta": "nuestro_motor/gpu/entrenar_referencia.py",
+      "bytes": 27791,
+      "sha256": "0366e65f56382a494e82f1caae1ce114aef0b4dcb7cb034b016a3a76808cfbab"
+    },
+    {
+      "ruta": "nuestro_motor/gpu/exportar_a_pytorch.py",
+      "bytes": 10423,
+      "sha256": "56d03d813eebc05d586beb2a720d82592499ee7a83ceb0a5bd25b0693b97acc8"
+    },
+    {
+      "ruta": "nuestro_motor/gpu/modelo_torch.py",
+      "bytes": 55679,
+      "sha256": "7b712922b6fb2a74f864470bb80bdb919c780b1bcd0521ae0ef0ee284fe126b6"
+    },
+    {
+      "ruta": "nuestro_motor/gpu/preparar_colab.ps1",
+      "bytes": 2621,
+      "sha256": "a95e71cd569e8884c1200178b357b49b0022f1ebac601560e5ad2c77b0a98fde"
+    },
+    {
+      "ruta": "nuestro_motor/gpu/presupuesto_memoria.py",
+      "bytes": 18955,
+      "sha256": "e28fe2d5fa9d29587225153538b058a7ac66b20a12fcd7cdf3a72e6ce2725caf"
+    },
+    {
+      "ruta": "nuestro_motor/gpu/README.md",
+      "bytes": 37195,
+      "sha256": "161f4cdc619e8f4d60fe76c3253aefa0cab919a16e146198b180c8b6ec063ad9"
+    },
+    {
+      "ruta": "nuestro_motor/gpu/tests_gpu/__init__.py",
+      "bytes": 58,
+      "sha256": "1787628ea0b86f549ca879a0693a2eeea613a463f277033f6bc6cd2151b80d36"
+    },
+    {
+      "ruta": "nuestro_motor/gpu/tests_gpu/test_comandos_readme.py",
+      "bytes": 7516,
+      "sha256": "fa9d0c0eb3c10aa9f89090704a4710101f39005b6cf248f1adff1eb073b3d6b2"
+    },
+    {
+      "ruta": "nuestro_motor/gpu/tests_gpu/test_compuerta_gpu.py",
+      "bytes": 17715,
+      "sha256": "73315f6ae2707a828ed865329d5601d5f9f14eb7a6a6057de083074ed4f00c1b"
+    },
+    {
+      "ruta": "nuestro_motor/gpu/tests_gpu/test_entrenamiento_gpu.py",
+      "bytes": 10100,
+      "sha256": "764bddc639f2312244c779aa4a970d4b962027497be7fcdb2fe363ac560bb1a5"
+    },
+    {
+      "ruta": "nuestro_motor/gpu/tests_gpu/test_equivalencia_gpu.py",
+      "bytes": 10115,
+      "sha256": "226020e24e161f24e0747e2838e89c1fb9e634ac7b49c54e27241f3595f22309"
+    },
+    {
+      "ruta": "nuestro_motor/gpu/tests_gpu/test_muestreo_fuentes.py",
+      "bytes": 19917,
+      "sha256": "afff4691fb23b5c53ccccc70068422c9e1e712105b0110c0416835b0f327a9ed"
+    },
+    {
+      "ruta": "nuestro_motor/gpu/verificar_equivalencia.py",
+      "bytes": 28248,
+      "sha256": "6806090a1f1b2377f07ba565f828be1213119de8e942a293c89546c663a9f1c4"
+    },
+    {
+      "ruta": "nuestro_motor/HANDOFF.md",
+      "bytes": 12800,
+      "sha256": "49d490be0b32eb10f3b05b31f52cb23f3f6c625306f22e53cae7d164b4cca6bc"
+    },
+    {
+      "ruta": "nuestro_motor/install_pi.sh",
+      "bytes": 17627,
+      "sha256": "81ceee7aa44fb1d8d0273664d9b2d6e325c847d1680a3afd6b65639860909774"
+    },
+    {
+      "ruta": "nuestro_motor/kernels.py",
+      "bytes": 14796,
+      "sha256": "cb6b95d41032b4f64c5279a2b45a3b8ce610f17638f0e73d509722edc4e205ad"
+    },
+    {
+      "ruta": "nuestro_motor/LICENSE",
+      "bytes": 1056,
+      "sha256": "1126322e2cc8d165adc4c792eeb195717de2bcc7b39be1ce77959d78e87ef685"
+    },
+    {
+      "ruta": "nuestro_motor/Makefile",
+      "bytes": 1197,
+      "sha256": "95cfe80c24c0b35be233a5e7dfc150c417ebfca30189e495607d3a759634e361"
+    },
+    {
+      "ruta": "nuestro_motor/mi_propio_llm_pi400.py",
+      "bytes": 1360816,
+      "sha256": "f64391210a87202dc6511f5df0cdd70ec2b3c7250a65362a61105ce39094e863"
+    },
+    {
+      "ruta": "nuestro_motor/mi_propio_llm_pi400_v0.0.2-web.py",
+      "bytes": 1468285,
+      "sha256": "de9409ae352e091f115989553ef0621689c6e017f46e9aafaa0b2f6aa6d8b6d8"
+    },
+    {
+      "ruta": "nuestro_motor/modelos/COMO_OBTENER.md",
+      "bytes": 2307,
+      "sha256": "374db23e79a8c49c39aae5c440c9364f1f26983b6f6ad0720d18448d3e683512"
+    },
+    {
+      "ruta": "nuestro_motor/modelos/informe_release.json",
+      "bytes": 1148,
+      "sha256": "c655d9f2b299a505115d648ff626a851f24286abff03d0b50693cae0835cacae"
+    },
+    {
+      "ruta": "nuestro_motor/modelos/README.md",
+      "bytes": 7872,
+      "sha256": "b6284a064ce2d9f14ae436fa60263e2343bda9a1c218a6403f498e071cfc55b4"
+    },
+    {
+      "ruta": "nuestro_motor/PI400.md",
+      "bytes": 25084,
+      "sha256": "35844794c16561595c20d10f1c02d8d428da6fef8e841e2c9f1d8e3607c37c83"
+    },
+    {
+      "ruta": "nuestro_motor/pi400.service",
+      "bytes": 2374,
+      "sha256": "dd1864053f02fcbac6e58251aa7a3f595bb4c16a730a666875fd835e1a4dd00c"
+    },
+    {
+      "ruta": "nuestro_motor/pi400_bench.py",
+      "bytes": 33039,
+      "sha256": "4f88dbdb65bfd4b2176229f19afd2e676527d297e18eed74a1445520258c09c1"
+    },
+    {
+      "ruta": "nuestro_motor/pipeline_datos.py",
+      "bytes": 244687,
+      "sha256": "581a507fbf91685749c447566e91d7f397b8b587f5d9fcca6779e2dd694740eb"
+    },
+    {
+      "ruta": "nuestro_motor/pipeline_fuentes_es.py",
+      "bytes": 72878,
+      "sha256": "2063f427c42093633345d86653f54b63c813218fbcf0714de2cbad66f60955e6"
+    },
+    {
+      "ruta": "nuestro_motor/pyproject.toml",
+      "bytes": 1775,
+      "sha256": "967444d420925de1c4a8b4cbd1aae5497aaa63ad8e3a737496bc733361019035"
+    },
+    {
+      "ruta": "nuestro_motor/README.md",
+      "bytes": 106034,
+      "sha256": "4aa642cdd4521227d4d02ec1a21e8b4b0805b598da2de4a47caf4efc94c49a44"
+    },
+    {
+      "ruta": "nuestro_motor/requirements.txt",
+      "bytes": 585,
+      "sha256": "71fad1a951bb9c53e86ebfef7752d9b23b686db6a716ada1b49253bc38a88a15"
+    },
+    {
+      "ruta": "nuestro_motor/tests/banco_rag.json",
+      "bytes": 284969,
+      "sha256": "d9c7328bc5f1d0cdc1623069b43b27fdd32ef6454b76cf24fceeab07bcdbfa9b"
+    },
+    {
+      "ruta": "nuestro_motor/tests/gguf_validador.py",
+      "bytes": 32863,
+      "sha256": "6560e22637d2f668505cd50dd1e879c666ee9e265b5c4e1c0e4be1c14f5df1ba"
+    },
+    {
+      "ruta": "nuestro_motor/tests/test_api_contract.py",
+      "bytes": 15049,
+      "sha256": "a6ddcf5ed0df184c44aaa65209b57fe50b171aa6f93f2d40fdf60195b60d4bee"
+    },
+    {
+      "ruta": "nuestro_motor/tests/test_banco_rag.py",
+      "bytes": 9520,
+      "sha256": "812182253f77713b7b0cf421d5f1a41b7e2423907357a0e2dd7344f20bb0781c"
+    },
+    {
+      "ruta": "nuestro_motor/tests/test_calidad_nativa_v4.py",
+      "bytes": 48575,
+      "sha256": "546898fefd51bb36bd6d1b8619c445c2fb9c5b91a222625461663a02b24cc72e"
+    },
+    {
+      "ruta": "nuestro_motor/tests/test_fuentes_es.py",
+      "bytes": 23843,
+      "sha256": "a3f65f7151a5ed3e50f309f628b4fe5deb8ba861a418d77d3f77e6a29c904471"
+    },
+    {
+      "ruta": "nuestro_motor/tests/test_gguf.py",
+      "bytes": 25316,
+      "sha256": "90e66be27306d4df96087e85efde8b6f0a3d2df63831289614da1ac2150889b9"
+    },
+    {
+      "ruta": "nuestro_motor/tests/test_gguf_token_type.py",
+      "bytes": 9868,
+      "sha256": "7053699a3e5233facce713ca527d486aeeef725e2be530f2601cc26ca44e37be"
+    },
+    {
+      "ruta": "nuestro_motor/tests/test_herramientas_extra.py",
+      "bytes": 41472,
+      "sha256": "218215b3c5d289f0903e8592470867668cd3215933b56d3ea2ef9d407754e8fa"
+    },
+    {
+      "ruta": "rag_internet/DISENO_RAG_INTERNET.md",
+      "bytes": 9599,
+      "sha256": "244f86960234770c3b3754c6a29d82a4973303e78685ebd1cc6082be8125e9b5"
+    },
+    {
+      "ruta": "rag_internet/fixtures/ddg_lite_fixture.html",
+      "bytes": 24332,
+      "sha256": "aa4c00e2614168bc3b39caff5e8d788fa231b4d1d600d2d522f98c7fe39fed91"
+    },
+    {
+      "ruta": "rag_internet/LEEME_RAG_INTERNET.md",
+      "bytes": 8552,
+      "sha256": "90b8eebcdce09c750d7b42a6583212f5a1f2523643aaead2b204c1987717f6c3"
+    },
+    {
+      "ruta": "rag_internet/mediciones/INFORME_HUECOS.md",
+      "bytes": 17331,
+      "sha256": "c9cd9da34de5949adb26744aeeaa8f3c45aad2b17440a13ce73d8ea5ae1a2766"
+    },
+    {
+      "ruta": "rag_internet/mediciones/MEDIDAS.json",
+      "bytes": 3860,
+      "sha256": "6291b7617828d1d19e203dd679153ad9161438dfcc50317399dc1c89deaac224"
+    },
+    {
+      "ruta": "rag_internet/motor_en_curso/cambios_vs_release.diff",
+      "bytes": 121982,
+      "sha256": "f440d8c6afd0a6d13a86ef83ded23c33e48c2a34bc8f48bbaaf685125183ca14"
+    },
+    {
+      "ruta": "rag_internet/motor_en_curso/LEEME.md",
+      "bytes": 3030,
+      "sha256": "009f0831ca80974967b7c5876f2f3193e61eb0cbaddd6ba0df66e55a3a15c080"
+    },
+    {
+      "ruta": "rag_internet/prototipos/_proto_medidas.py",
+      "bytes": 8240,
+      "sha256": "8e6901d0e21d9fb55049a84931a6f5b96bcfc8d59ac20a052f37fc2f0e6677ee"
+    },
+    {
+      "ruta": "rag_internet/prototipos/_proto_medidas2.py",
+      "bytes": 2798,
+      "sha256": "7bce2e6cd71ffb813ab362c68bac9a288d757e94bcace6f252285138349e1268"
+    },
+    {
+      "ruta": "rag_internet/RESULTADOS_VERIFICACION.md",
+      "bytes": 6361,
+      "sha256": "f54c104b3268d9596a939bd687a207ffafaabe4225bfc8d2f34a632842891805"
+    },
+    {
+      "ruta": "README.md",
+      "bytes": 7441,
+      "sha256": "9cfa2349cdbce512ecf06386d1a0cc23875a6e7e64da8e7deeaaa8c421edf248"
+    },
+    {
+      "ruta": "SECURITY.md",
+      "bytes": 2657,
+      "sha256": "d58d482d42841149a57dd0bfea66134577908a2327520810961d7e2a0f87755a"
+    },
+    {
+      "ruta": "super_motor/corpus/tokenizador.json",
+      "bytes": 194549,
+      "sha256": "3f75bc233a7479ff5593decc9d6c98b6fcb01f7de783163ed540907f6fa49106"
+    },
+    {
+      "ruta": "super_motor/database_manager.py",
+      "bytes": 16392,
+      "sha256": "7ac08dfd00e50321c999e7f9b0488d34936cd595966144002c4cabc05dba8cba"
+    },
+    {
+      "ruta": "super_motor/embedding_engine.py",
+      "bytes": 43712,
+      "sha256": "7f121bb8d1ccef897e9302952c9d9543cd55f8bc39b783654cc074cb86e36365"
+    },
+    {
+      "ruta": "super_motor/engine_pi400_accel.c",
+      "bytes": 7909,
+      "sha256": "e276bd3b8993564cc5a113912defaac78fcd2fbeaae5c4639e0480d83a823e81"
+    },
+    {
+      "ruta": "super_motor/GUIA_MERGE.md",
+      "bytes": 7787,
+      "sha256": "e3e8a53bd862f323fb0ad56c1d38b5b16d1f3c94a270372fbf8d7bca9d31df4d"
+    },
+    {
+      "ruta": "super_motor/INFORME_SUPER_V4.md",
+      "bytes": 6786,
+      "sha256": "7c0ceb306566403aed0e1e81354b80d0129304cad53879d40cdd126cb3cbccfb"
+    },
+    {
+      "ruta": "super_motor/kernels.py",
+      "bytes": 8669,
+      "sha256": "2a41e727a5c12c8a7b8e30a215d347b1c02c69f615db2b315e6bed6776ac60a1"
+    },
+    {
+      "ruta": "super_motor/makefile.md",
+      "bytes": 1034,
+      "sha256": "edc5c05fc79e2cb2069185c92111a72f94f77e8c6abc06d35236fe1592ef526a"
+    },
+    {
+      "ruta": "super_motor/mi_propio_llm_pi400.py",
+      "bytes": 1339243,
+      "sha256": "f42409bbff793ad2025d74dd2ef148b24d4aa6b66641596c60929eedee8657b1"
+    },
+    {
+      "ruta": "super_motor/pipeline_datos.py",
+      "bytes": 9788,
+      "sha256": "ac82226b1dfd5249147c741611046765c8fa1bf03aff33bc941b308c1f9d9d65"
+    },
+    {
+      "ruta": "super_motor/readme.md",
+      "bytes": 12698,
+      "sha256": "0b69e0d9b198bc9a10296bcf9bd79f1a3a39d93537c2e58acafaff73c9f6428d"
+    },
+    {
+      "ruta": "super_motor/tests/medicion_ANTES.json",
+      "bytes": 18797,
+      "sha256": "a95e1dd1764a1b03fce21e9aa1664bc4ce344b2f02da4a2cdead284f33f750bf"
+    },
+    {
+      "ruta": "super_motor/tests/medicion_DESPUES.json",
+      "bytes": 18528,
+      "sha256": "56da53bc7cd13d4a4fb03ca2ae9a8cb1bff2cb0b2beec4d0a6dabb49b97c708e"
+    },
+    {
+      "ruta": "super_motor/tests/medir_mascara_json.py",
+      "bytes": 4528,
+      "sha256": "167b4a2b207359260e0e82e99109faa8922ee1e1b7c8b6e13e2c461f5f656baf"
+    },
+    {
+      "ruta": "super_motor/tests/medir_rag_cuantico.py",
+      "bytes": 4867,
+      "sha256": "371a99a95cf8c75e561c28ad9b54f37a2cdb4f3aae7774d58e8642e781f15804"
+    },
+    {
+      "ruta": "super_motor/tests/medir_super_v4.py",
+      "bytes": 56490,
+      "sha256": "3fc0129d1e89a59674a5dc89208946158357e7f321397356f5bbac6c00e929c6"
+    },
+    {
+      "ruta": "super_motor/tests/test_super_v4.py",
+      "bytes": 26900,
+      "sha256": "6dab82335b004ee53185d2db5bf64b59a81904f65307ad730f84365f7b26b34a"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+build/
+dist/
+*.egg-info/
+.eggs/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Datos y artefactos (no se publican)
+*.npz
+*.gguf
+*.sqlite3
+*.sqlite3-wal
+*.sqlite3-shm
+*.db
+*.log
+*.bak400
+*.bz2
+
+# Corpus: se regenera con pipeline_datos.py
+nuestro_motor/corpus/*.txt
+nuestro_motor/corpus/*.jsonl
+nuestro_motor/corpus/*.meta.jsonl
+nuestro_motor/corpus/shards/
+nuestro_motor/corpus/backup_*/
+nuestro_motor/corpus/anclas.npz
+nuestro_motor/corpus/referencia.last_checkpoint.npz
+
+# Estado de ejecución
+cache_web/
+base_rag_pi400.sqlite3*
+sesiones_chat_pi400.sqlite3*
+memoria_episodica_pi400.sqlite3*
+notas_asistente_pi400.jsonl
+test_training*.npz
+*.last_checkpoint.npz
+
+# Empaquetado para Colab
+colab_envio/
+
+# Sistema
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

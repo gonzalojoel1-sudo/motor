@@ -1,0 +1,19 @@
+# Normaliza los finales de línea al hacer checkout, pero respeta los binarios.
+* text=auto eol=lf
+
+*.py    text eol=lf
+*.c     text eol=lf
+*.h     text eol=lf
+*.sh    text eol=lf
+*.toml  text eol=lf
+*.json  text eol=lf
+*.md    text eol=lf
+
+# Documentación de traspaso: se conserva CRLF a propósito (viene así del origen)
+DOCUMENTACION/DOCUMENTACION_PI400_v4.md  text eol=crlf
+
+# Binarios
+*.npz   binary
+*.bin   binary
+*.gguf  binary
+*.sqlite3 binary
